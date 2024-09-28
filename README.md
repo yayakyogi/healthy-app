@@ -1,16 +1,6 @@
-# healthy_app
+# Healthy App
 
-A new Flutter project.
+Healthy App is application developed to check your BMI (Body Mass Index)
 
-## Getting Started
+[Link to download and install on android](https://drive.google.com/file/d/1wS5ceGUFSprmM5DX21808dL2GJE5YGqa/view?usp=sharing)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
